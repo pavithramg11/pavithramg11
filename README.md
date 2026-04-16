@@ -45,4 +45,4 @@
 ---
 
 ### Let's Connect 🤝
-**Sunnyvale, CA** | [pavimg11@gmail.com](mailto:pavimg11@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pavithramg11)
+**Sunnyvale, CA** | [pavimg11@gmail.com](mailto:pavimg11@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pavithramg)

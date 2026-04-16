@@ -9,7 +9,7 @@
 
 🎓 Completing a **Master's degree** in May 2026 at San Jose State University with a focus on **Generative AI, LLMs, and Agentic AI systems**.
 
-🌱 Currently diving deep into **LLAMA, Vertex AI, and Multi-Sensor Fusion** for autonomous driving applications.
+🌱 Currently diving deep into **AI/ML, Generative AI, LLMs, Agentic AI systems, and cloud-native Applications** for autonomous driving applications.
 
 ✍️ I have led large-scale migrations and directed teams of 30+ engineers to deliver global telecom solutions.
 
@@ -20,7 +20,7 @@
 
 ### Tech Stack 🛠
 **AI & Machine Learning:**
-**Models:** LLaMA, PyTorch, TensorFlow, Vertex AI.
+**Models:** LLaMA, Gemini API, PyTorch, TensorFlow, Vertex AI.
 **Frameworks:** LangChain, AutoGen, RAG, NLP.
 **Vector DBs:** Chroma DB, Pinecone.
 

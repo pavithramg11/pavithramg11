@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Pavithra MG
 
-### ☕ Senior Software Engineer | AI & Cloud-Native Architect | MS Software Engineering @ SJSU
+### ☕ Software Engineer | Gen AI, Agentic AI systems & Cloud-Native Architect | MS Software Engineering @ SJSU
 
 ---
 

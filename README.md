@@ -1,5 +1,7 @@
 # 👋 Hey there! I'm Pavithra MG
 
+# Here's my portfolio: https://pavithramg.netlify.app
+
 ### ☕ Software Engineer | Gen AI, Agentic AI systems & Cloud-Native Architect | MS Software Engineering @ SJSU
 
 ---
